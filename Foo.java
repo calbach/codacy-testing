@@ -5,4 +5,5 @@ class Foo {
     return true == true;
   }
   private String bar;
+  
 }
