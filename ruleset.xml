@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <ruleset name="Workbench ruleset"
-    xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <description>
+      Custom PMD ruleset.
+  </description>
 
   <!--
     Docs: https://pmd.github.io/pmd-5.4.6/pmd-java/rules/index.html
